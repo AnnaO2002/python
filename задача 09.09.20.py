@@ -6,3 +6,4 @@ a,b=b,a
 print(a,b)
 print('hello')
 print('1 изменение')
+print('2 изменение')
